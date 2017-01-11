@@ -1,0 +1,14 @@
+Lekarz, imię i nazwisko: lekarz, specjalność: nic
+
+Pacjenci w kolejce:
+ Pacjent, imię nazwisko: aaaa, wiek: 23, choroba: aaa
+ Pacjent, imię nazwisko: 2323, wiek: 2323, choroba: 2323
+ Pacjent, imię nazwisko: 2323, wiek: 2323, choroba: 2323
+ Pacjent, imię nazwisko: 232323, wiek: 2323, choroba: 2323
+ Pacjent, imię nazwisko: 2323, wiek: 22323, choroba: 11121
+ Pacjent, imię nazwisko: 232323, wiek: 433434, choroba: 565656
+ Pacjent, imię nazwisko: 2323, wiek: 43434, choroba: 55656
+ Pacjent, imię nazwisko: 232323123, wiek: 4545454, choroba: 232323
+ Pacjent, imię nazwisko: 232313123, wiek: 4545434, choroba: 32323
+
+Czas oczekiwania: 2

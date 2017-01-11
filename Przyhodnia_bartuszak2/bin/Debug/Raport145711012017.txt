@@ -1,0 +1,6 @@
+Lekarz, imię i nazwisko: adam hofman, specjalność: nic
+
+Pacjenci w kolejce:
+ Pacjent, imię nazwisko: pacjent, wiek: 20, choroba: nicosss
+
+Czas oczekiwania: 0

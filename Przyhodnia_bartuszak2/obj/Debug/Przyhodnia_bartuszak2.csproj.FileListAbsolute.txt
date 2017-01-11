@@ -1,0 +1,5 @@
+C:\Users\local\Desktop\BartusZak\Przyhodnia_bartuszak2\Przyhodnia_bartuszak2\bin\Debug\Przyhodnia_bartuszak2.exe.config
+C:\Users\local\Desktop\BartusZak\Przyhodnia_bartuszak2\Przyhodnia_bartuszak2\bin\Debug\Przyhodnia_bartuszak2.exe
+C:\Users\local\Desktop\BartusZak\Przyhodnia_bartuszak2\Przyhodnia_bartuszak2\bin\Debug\Przyhodnia_bartuszak2.pdb
+C:\Users\local\Desktop\BartusZak\Przyhodnia_bartuszak2\Przyhodnia_bartuszak2\obj\Debug\Przyhodnia_bartuszak2.exe
+C:\Users\local\Desktop\BartusZak\Przyhodnia_bartuszak2\Przyhodnia_bartuszak2\obj\Debug\Przyhodnia_bartuszak2.pdb

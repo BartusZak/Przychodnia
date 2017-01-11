@@ -1,0 +1,4 @@
+Lekarz, imię i nazwisko: super lekarz, specjalność: super
+Pacjenci w kolejce:
+ Pacjent, imię nazwisko: super pacjent, wiek: 20, choroba: nic
+Czas oczekiwania: 0

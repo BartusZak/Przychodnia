@@ -1,0 +1,6 @@
+Lekarz, imię i nazwisko: lekarz, specjalność: nic
+
+Pacjenci w kolejce:
+ Pacjent, imię nazwisko: aaaa, wiek: 23, choroba: aaa
+
+Czas oczekiwania: 0
